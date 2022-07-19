@@ -12,8 +12,8 @@ Scan a QR code in the terminal using the system camera or a given image.
 <img src="https://img.shields.io/crates/v/qrscan.svg" />
 </a>
 
-<a href="https://github.com/sayanarijit/qrscan/commits">
-<img src="https://img.shields.io/github/commit-activity/m/sayanarijit/qrscan" />
+<a href="https://github.com/hack-parthsharma/QRScan/commits">
+<img src="https://img.shields.io/github/commit-activity/m/hack-parthsharma/QRScan" />
 </a>
 
 </p>
