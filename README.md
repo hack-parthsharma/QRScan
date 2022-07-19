@@ -20,8 +20,6 @@ Scan a QR code in the terminal using the system camera or a given image.
 
 <p align="center">
 
-https://user-images.githubusercontent.com/11632726/178779071-ad5ca7da-0fc3-48c1-b725-a9834db39134.mp4
-
 </p>
 
 ### Install
